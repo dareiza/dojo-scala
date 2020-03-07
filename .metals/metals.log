@@ -1,0 +1,165 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/dojos/dojo-scala'
+INFO  time: initialize in 1.21s
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloWorld.scala
+INFO  no build target: using presentation compiler with only scala-library
+mar. 07, 2020 10:22:26 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 67
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloWorld.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloWorld.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloWorld.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloWorld.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloScala.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/helloScala.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/ifElse.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/ifElse.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaMatch.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaMatch.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/ifElse.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/ifElse.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaWhile.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaWhile.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaWhile.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaImport.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/monadaScala.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/monadaScala.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaE.scala
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+mar. 07, 2020 11:41:30 A. M. scala.meta.internal.pc.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1068)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+mar. 07, 2020 11:41:31 A. M. scala.meta.internal.pc.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1068)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+mar. 07, 2020 11:41:31 A. M. scala.meta.internal.pc.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1068)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+mar. 07, 2020 11:41:31 A. M. scala.meta.internal.pc.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1068)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+something's wrong: no file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala in Array[String]RangePosition(file:///home/drai06/dojos/dojo-scala/scalaFactorial.scala, 43, 43, 56)
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/dojos/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
+WARN  no build target for: /home/drai06/dojos/dojo-scala/scalaFactorial.scala
